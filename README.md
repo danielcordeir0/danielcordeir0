@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá! Eu sou o Daniel Cordeiro ! 😉
+### Estudante, aventureiro e servo de Cristo:
+📘 Cursando Sistemas de Informação.
 
-<!--
-**danielcordeir0/danielcordeir0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📱 Aventurando no Desenvolvimento Mobile.
 
-Here are some ideas to get you started:
+conecte comigo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-cordeiro-738048206/)
+
+![Cordeiro GitHub stats](https://github-readme-stats.vercel.app/api?username=danielcordeir0&show_icons=true&theme=tokyonight)
+### Teconologias que uso:
+<div style="disply: inline_block"><br/>
+
+  <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+
+<div>
