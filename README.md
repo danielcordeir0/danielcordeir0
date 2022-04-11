@@ -1,9 +1,17 @@
 ### Olá! Eu sou o Daniel Cordeiro ! 😉
-### Estudante, aventureiro e servo de Cristo:
-📘 Cursando Sistemas de Informação.
-
-📱 Aventurando no Desenvolvimento Mobile.
-
+    String meusDados() {
+        return """{
+        "Name": "Daniel",
+        "Age": "19",
+    
+        "City": "Uberlândia",
+        "Area": "Mobile",
+    
+        "Details":["Creative","uncommon",
+        "innovative"],
+        "Linguages": "Dart"
+        }""";
+    }
 conecte comigo:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-cordeiro-738048206/)
