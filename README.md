@@ -5,11 +5,11 @@
         "Age": "19",
     
         "City": "Uberlândia",
-        "Area": "Mobile",
+        "Area": "Programmer",
     
         "Details":["Creative","uncommon",
         "innovative"],
-        "Linguages": "Dart"
+        "Linguages": "C"
         }""";
     }
 conecte comigo:
