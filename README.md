@@ -2,14 +2,14 @@
     String meusDados() {
         return """{
         "Name": "Daniel",
-        "Age": "19",
+        "Age": "20",
     
         "City": "Uberlândia",
-        "Area": "Programmer",
+        "Area": "Programmer - UX/UI",
     
         "Details":["Creative","uncommon",
         "innovative"],
-        "Linguages": "C"
+        "Linguages": "C,Java"
         }""";
     }
 conecte comigo:
